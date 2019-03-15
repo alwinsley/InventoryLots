@@ -2,7 +2,7 @@
 session_start();
 include 'conn.php';
 
-
+// New note
 // Define variables and initialize with empty values
 $lotstatus = $streetnumber = $streetname = $lotnumber = $lotsize = $lotcost = $modelselection = $permitstatus = $ownedby = $propertyappraiser = $city = $parcelid = $floodzone = $well = $septic = $streetpower = $citywater = $citysewer = $listprice = $purchaseprice = $counteroffer = $mls = $seller = $offersubmitteddate = $contractsigneddate = $escrowdue = $escrowsubmitted = $vetted = $feasibilitydays = $feasibilityduedate = $closingdate = $notes = $availabledate = $permittingnotes = $salesnotes = "";
 $lotstatus_err = $streetnumber_err = $streetname_err = $lotnumber_err = $lotsize_err = $lotcost_err = $modelselection_err = $permitstatus_err = $ownedby_err = $propertyappraiser_err = $city_err = $parcelid_err = $floodzone_err = $well_err = $septic_err = $streetpower_err = $citywater_err = $citysewer_err = $listprice_err = $purchaseprice_err = $counteroffer_err = $mls_err = $seller_err = $offersubmitteddate_err = $contractsigneddate_err = $escrowdue_err = $escrowsubmitted_err = $vetted_err = $feasibilitydays_err = $feasibilityduedate_err = $closingdate_err = $notes_err = $availabledate_err = $permittingnotes_err = $salesnotes_err = "";
